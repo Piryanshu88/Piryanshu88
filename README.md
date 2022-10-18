@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="left">Hi 👋, I'm Piryanshu Bisht</h1>
 
-<h4>I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.</h4>
+<h4>I am passionate about technology. Apps that are interesting and useful are what I'm passionate about. And I'm enthusiastic about learning and willing to work across multiple technologies and domains. Exploring cutting-edge technologies and using them to solve real-life problems sparked my interest.</h4>
    
 - ⚗️ I am an aspiring  Full Stack (MERN) web developer.
 
