@@ -3,6 +3,9 @@ Piryanshu88/Piryanshu88 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="left">Hi 👋, I'm Piryanshu Bisht</h1>
+<h1 align='left'>
+    <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Aspiring+Mern+Developer;Eager+Learner' alt="Typing SVG"/>
+   
 
 <h4>I am passionate about technology. Apps that are interesting and useful are what I'm passionate about. And I'm enthusiastic about learning and willing to work across multiple technologies and domains. Exploring cutting-edge technologies and using them to solve real-life problems sparked my interest.</h4>
    
