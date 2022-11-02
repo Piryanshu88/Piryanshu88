@@ -7,8 +7,10 @@ You can click the Preview link to take a look at your changes.
     <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Aspiring+Mern+Developer;Eager+Learner' alt="Typing SVG"/>
    
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piryanshu88&label=Visitors%20&color=0e75b6&style=flat" alt="piryanshu" /> </p> -->
 <h4>I am passionate about technology. Apps that are interesting and useful are what I'm passionate about. And I'm enthusiastic about learning and willing to work across multiple technologies and domains. Exploring cutting-edge technologies and using them to solve real-life problems sparked my interest.</h4>
    
+<img align="right"  width="55%" height="310px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"></img>
 - ⚗️ I am an aspiring  Full Stack (MERN) web developer.
 
 - 🌱 I’m currently learning Full Stack development
