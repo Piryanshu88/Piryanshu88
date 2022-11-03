@@ -52,7 +52,7 @@ Someone who loves to solve problems and is eager to learn
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piryanshu88&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=700/></p>
 <hr/>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Piryanshu88&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=700/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Piryanshu88&theme=dark&hide_border=true&ring=188DDD)](https://git.io/streak-stats" width=700/></p>
      
 
 
