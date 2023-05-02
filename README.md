@@ -28,7 +28,8 @@ You can click the Preview link to take a look at your changes.
 - ➡️ My linkedin id : [Piryanshu Bisht](https://www.linkedin.com/in/piryanshu-bisht-ba1a22231/)
 
 - 🧑‍💻 My Hackerrank id : [Piryanshu Bisht](https://www.hackerrank.com/deepubisht2004)
-- 🧑🏽‍💻 My LeetCode id : [Piryanshu Bisht](https://leetcode.com/Piryanshu_95/)
+
+- 🧑🏽‍💻 My Leetcode id : [Piryanshu Bisht](https://leetcode.com/Piryanshu_95/)
 
 #### ⚡ One line that describes me best? 
 Someone who loves to solve problems and is eager to learn
